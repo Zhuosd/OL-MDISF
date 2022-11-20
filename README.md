@@ -1,4 +1,4 @@
-# OLSMF: Online Semi-Supervised Learning with Mix-Typed Streaming Features
+# OLSMF: Online Semi-Supervised Learning with Mix-Typed Streaming Features [AAAI-2023](https://aaai.org/Conferences/AAAI-23/)
 
 ![Python 3.6](https://img.shields.io/badge/python-3.6-green.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
