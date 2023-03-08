@@ -19,7 +19,7 @@ The overall framework of this project is designed as follows
 1. Clone this repository
 
 ```
-git clone https://github.com/OSLMF/OSLMF_Algo.git
+git clone https://github.com/OSLMF/OSLMDF.git
 ```
 
 2. Make sure you meet package requirements by running:
@@ -28,16 +28,16 @@ git clone https://github.com/OSLMF/OSLMF_Algo.git
 pip install -r requirements.txt
 ```
 
-3. Running OSLMF model
+3. Running OSLMDF model
 
 ```python
-python OLSMF_Cap.py
+python OLSMDF_Cap.py
 ```
 
 or 
 
 ```python
-python OLSMF_Tra.py
+python OLSMDF_Tra.py
 ```
 
 ## Q&A
