@@ -1,4 +1,4 @@
-# OLSMDF: Online Semi-Supervised Learning with Mix-Typed and Drifted Streaming Features
+# Online Learning from Mix-Typed, Drifted, and Incomplete Streaming Features
 
 ![Python 3.6](https://img.shields.io/badge/python-3.6-green.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
