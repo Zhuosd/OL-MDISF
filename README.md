@@ -19,7 +19,7 @@ The overall framework of this project is designed as follows
 1. Clone this repository
 
 ```
-git clone https://github.com/OSLMF/OSLMDF.git
+git clone https://github.com/OMDI/OMDI.git
 ```
 
 2. Make sure you meet package requirements by running:
@@ -28,7 +28,7 @@ git clone https://github.com/OSLMF/OSLMDF.git
 pip install -r requirements.txt
 ```
 
-3. Running OSLMDF model
+3. Running OMDI model
 
 ```python
 python OLSMDF_Cap.py
